@@ -1,0 +1,22 @@
+.topcomponent {
+  width: 100%;
+  display: block;
+}
+
+.questions {
+  width: 50%;
+  float:left;
+  margin-bottom: 50px;
+  margin-left: 50px
+}
+
+.orders {
+  width: 40%;
+  float:right;
+}
+
+.reviews {
+  width: 40%;
+  display: block;
+  float: left;
+}
